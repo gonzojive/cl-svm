@@ -16,6 +16,6 @@
 		:src
 		:components ((:file "package")
 			     (:file "svm" :depends-on ("package")))))
-  :depends-on ("parenscript" "hunchentoot"))
+  :depends-on ())
 			
 			     
