@@ -1,6 +1,6 @@
 (defpackage :cl-svm
   (:nicknames :svm)
   (:use :cl)
-  (:export #:simple-train-svm
+  (:export #:train-svm
 	   #:training-pair-bind
 	   #:dot-product))
